@@ -1,5 +1,5 @@
 cffi==1.11.5
-Django==2.0.5
+Django>=2.0.6
 django-bootstrap
 django-braces==1
 mistune==0.8.3
